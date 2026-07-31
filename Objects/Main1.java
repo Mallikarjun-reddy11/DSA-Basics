@@ -5,10 +5,10 @@ public class Main1 {
 
 	        Employeerecord emp = new Employeerecord(
 	                101,
-	                "Mallikarjun Reddy",
+	                "Sarayu",
 	                "Software",
 	                50000,
-	                "mallikarjun@gmail.com",
+	                "sarayupotharaju@gmail.com",
 	                "9876543210");
 
 	        System.out.println("Employee ID : " + emp.empId());
